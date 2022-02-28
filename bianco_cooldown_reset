@@ -1,0 +1,5 @@
+#!python
+
+if user.vars.Bianco_Boss_cooldown:
+    user.vars.Bianco_Boss_cooldown = False
+    user.say("Your cooldown has been reset.")
